@@ -8,8 +8,8 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://agro-mulya.vercel.app',
   siteRepo: 'https://github.com/slametsampon/next-contentlayer',
-  siteLogo: '/static/images/logo.png',
-  socialBanner: '/static/images/twitter-card.png',
+  siteLogo: '/static/images/data-51x51.png',
+  socialBanner: '/static/images/data-51x51.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'address@yoursite.com',
   github: 'https://github.com/slametsampon/next-contentlayer',
